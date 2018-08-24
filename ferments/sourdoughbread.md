@@ -13,4 +13,4 @@
   * 2.5 Tl Koriander
   * <1Tl Kuemmel
 
-  # Result: Dough mixing easy, messed up and added salt to late, so mabye more sticky while kneading than necessary (otherwise rye?)
+  **Result**: Dough mixing easy, messed up and added salt to late, so mabye more sticky while kneading than necessary (otherwise rye).

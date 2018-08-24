@@ -14,3 +14,5 @@
   * <1Tl Kuemmel
 
   **Result**: Dough mixing easy, messed up and added salt to late, so mabye more sticky while kneading than necessary (otherwise rye).
+	      Taste: pleasant, loft texture, less wet than 100% vollkorn,  but content should  
+be increae for  next  iteration as comparison

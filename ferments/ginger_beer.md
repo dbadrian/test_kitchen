@@ -15,7 +15,8 @@
  Sp. Gravity:
  pH: 
  
-* Addin EC1118 yeats (? g) dissolved in ??ml water
+* Addin EC1118 yeats (1.4 g) dissolved in 60ml water
+* added 1g of yeast nutrients
 * fermented in deg env
 
 

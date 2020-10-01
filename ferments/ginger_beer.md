@@ -15,7 +15,7 @@
  Sp. Gravity:
  pH: 
  
-* Addin EC1118 yeats (1.4 g) dissolved in 60ml water
+* Addin EC1118 yeats (1.4 g) dissolved in 60ml water // 01.10.20
 * added 1g of yeast nutrients
 * fermented in deg env
 
@@ -23,3 +23,4 @@
 ~ 4L
 
 SG: 1045 @ 28.2 deg (~ 1048)
+

@@ -17,3 +17,8 @@
  
 * Addin EC1118 yeats (? g) dissolved in ??ml water
 * fermented in deg env
+
+
+~ 4L
+
+SG: 1045 @ 28.2 deg (~ 1048)

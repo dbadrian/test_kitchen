@@ -24,3 +24,8 @@
 
 SG: 1045 @ 28.2 deg (~ 1048)
 
+~3l for bottling
+74 gr Erythiror sugar
+24 gr Dextrose for priming
+
+Bottled in 0.5L tall beer bottles
